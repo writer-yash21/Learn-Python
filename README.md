@@ -10,7 +10,7 @@ Welcome to the **Python Basics and Mini Projects Repository**! This repository i
    - **Project 1**: Number Guessing Game
    - **Project 2**: To-Do List Application
    - **Project 3**: Password Generator
-   - **Project 4**: Temprarture convertor
+   - **Project 4**: Tempreture convertor
 
 
 
